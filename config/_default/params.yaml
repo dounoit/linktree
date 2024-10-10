@@ -3,20 +3,24 @@
 ############################
 
 author:
-  name: "L1nkr"
-  image: author.png
-  greeting: "A simple LinkTree theme for Hugo :evergreen_tree:"
-  icon: ":wave:"
+  name: "chefboyrdave2.1"
+  image: twitter.jpg
+  #image: author.png
+  greeting: "cbrd21 linkTree :evergreen_tree:"
+  #icon: ":wave:"
+  icon: ":victory_hand:"
+
+#https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/chrede88/L1nkr
-  - link: https://github.com/Chrede88/L1nkr#readme
-  - website: https://gohugo.io
-  # - x-twitter: 
+  - github: https://github.com/dounoit/L1nkr
+  - link: https://github.com/dounoit/L1nkr#readme
+  - website: https://dounoit.github.io
+  - x-twitter:  https://x.com/cbrd21dash1
   # - mastodon: 
   # - linkedin: 
   # - instagram: 
@@ -85,7 +89,8 @@ tooltip: true
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "L1nkr"
-description: "Demo site build with L1nkr & Hugo"
+title: "linkTree"
+description: "@chefboyrdave2.1"
 images:
-  - thumbnail.png
+  - twitter.jpg
+  #- thumbnail.png
